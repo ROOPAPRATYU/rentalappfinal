@@ -1,0 +1,16 @@
+id,property_name,tenant_name,address,bhk,age,phone_number,rent,rent_date,adhar_num,adhar_pic,property_pic,created
+1,My name,Sundar,My Address,22,33,3666666666,22000,2023-02-16,333333333333,/media/media/adhar_card/adharerror_9SkHOu4.png,/media/media/Propery_image/adharerror_M3x7WKD.png,2023-02-15T05:04:22.754096Z
+2,KingsLanding,Kingslanding,2,22,72,7774747474,22000,2023-02-16,333333333333,/media/media/adhar_card/adharerror_9SkHOu4.png,/media/media/Propery_image/adharerror_M3x7WKD.png,2023-02-21T06:15:04.139809Z
+3,Winterfell,Ned Starks,North,3,33,7593737378,5555,2023-02-01,333333333333,/media/adhar_card/adharerror_4FP7o0I.png,/media/Propery_image/adharerror_MGq4zti.png,2023-02-21T06:42:12.221657Z
+4,Castly Rock,Lanisters,Castly rock Golden town,3,23,7774747474,22000,2023-02-23,333333333333,/media/adhar_card/model.png,/media/Propery_image/modelll.png,2023-02-21T06:43:04.820955Z
+5,Mata Mahal,Shyam,My Address,2,22,7774747474,22000,2023-02-16,333333333333,/media/media/adhar_card/adharerror_9SkHOu4.png,/media/media/Propery_image/adharerror_M3x7WKD.png,2023-02-21T06:43:15.896599Z
+6,Sundar,My Address,22,33,3666666666,,22000,2023-02-16,333333333333,/media/media/media/adhar_card/adharerror_9SkHOu4.png,/media/media/media/Propery_image/adharerror_M3x7WKD.png,2023-02-21T06:56:21.231543Z
+7,Kingslanding,2,22,72,7774747474,,22000,2023-02-16,333333333333,/media/media/media/adhar_card/adharerror_9SkHOu4.png,/media/media/media/Propery_image/adharerror_M3x7WKD.png,2023-02-21T06:56:21.369754Z
+8,Ned Starks,North,3,33,7593737378,,5555,2023-02-01,333333333333,/media/media/adhar_card/adharerror_4FP7o0I.png,/media/media/Propery_image/adharerror_MGq4zti.png,2023-02-21T06:56:21.445584Z
+9,Lanisters,Castly rock Golden town,3,23,7774747474,,22000,2023-02-23,333333333333,/media/media/adhar_card/model.png,/media/media/Propery_image/modelll.png,2023-02-21T06:56:21.568068Z
+10,Shyam,My Address,2,22,7774747474,,22000,2023-02-16,333333333333,/media/media/media/adhar_card/adharerror_9SkHOu4.png,/media/media/media/Propery_image/adharerror_M3x7WKD.png,2023-02-21T06:56:21.657079Z
+11,My name,Sundar,My Address,22,33,3666666666,22000,2023-02-16,333333333333,/media/media/media/adhar_card/adharerror_9SkHOu4.png,/media/media/media/Propery_image/adharerror_M3x7WKD.png,2023-02-21T07:06:21.627914Z
+12,KingsLanding,Kingslanding,2,22,72,7774747474,22000,2023-02-16,333333333333,/media/media/media/adhar_card/adharerror_9SkHOu4.png,/media/media/media/Propery_image/adharerror_M3x7WKD.png,2023-02-21T07:06:21.771184Z
+13,Winterfell,Ned Starks,North,3,33,7593737378,5555,2023-02-01,333333333333,/media/media/adhar_card/adharerror_4FP7o0I.png,/media/media/Propery_image/adharerror_MGq4zti.png,2023-02-21T07:06:21.947535Z
+14,Castly Rock,Lanisters,Castly rock Golden town,3,23,7774747474,22000,2023-02-23,333333333333,/media/media/adhar_card/model.png,/media/media/Propery_image/modelll.png,2023-02-21T07:06:22.033422Z
+15,Mata Mahal,Shyam,My Address,2,22,7774747474,22000,2023-02-16,333333333333,/media/media/media/adhar_card/adharerror_9SkHOu4.png,/media/media/media/Propery_image/adharerror_M3x7WKD.png,2023-02-21T07:06:22.134501Z

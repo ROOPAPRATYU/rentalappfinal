@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.f4173968.css","mappings":"AAAA,2BACI,kBACJ","sources":["components/Table/Table.css"],"sourcesContent":[".MuiTablePagination-spacer {\n    flex: 0 !important;\n}"],"names":[],"sourceRoot":""}

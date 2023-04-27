@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Rent Due</title>
+</head>
+
+<body style="background-color: #fbfef9;">
+    <table cellpadding="0" cellspacing="0" border="0" align="center" width="100%"
+        style="max-width: 600px; margin: 0 auto;">
+        <tr>
+            <td bgcolor="#537fe7" align="center" height="100">
+                <h3
+                    style="color: #ffffff; letter-spacing: 3px; font-family: Arial, sans-serif; font-size: 24px; margin: 0;">
+                    Rent Due</h3>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#ffffff"
+                style="padding: 20px; font-family: Arial, sans-serif; font-size: 16px; color: #191923; margin: 0 0 20px 0;">
+                <h3>Dear {{tenant_name}},</h3>
+                <p>This is a reminder to pay your rent for <strong>{{property_name}}</strong>. Your rent of Rs
+                    <strong>{{rent_amount}}</strong> is due by 03/{{month}}/{{year}}. Kindly pay the rent to avoid any
+                    late fees.
+                </p>
+                <br />
+                <p>If you have already paid the rent, please acknowledge the same by clicking the link to notify the
+                    property owner.</p>
+                <table cellpadding="0" cellspacing="0" border="0" align="center" style="margin: 0 auto;">
+                    <tr>
+                        <td align="center" bgcolor="#537fe7" style="border-radius: 7px;">
+                            <a href="http://127.0.0.1:8000/sms/varify/{{rent_token}}"
+                                style="font-family: Arial, sans-serif; font-size: 16px; color: #ffffff; text-decoration: none; display: inline-block; padding: 10px 20px;">Paid</a>
+                        </td>
+                    </tr>
+                </table>
+                <p style="font-family: Arial, sans-serif; font-size: 16px; color: #191923; margin: 20px 0 0 0;">or use
+                    <a href="http://127.0.0.1:8000/sms/varify/{{rent_token}}"
+                        style="font-family: Arial, sans-serif; font-size: 16px; color: #537fe7; text-decoration: none;">Paid</a>
+                </p>
+                <p style="font-family: Arial, sans-serif; font-size: 16px; color: #191923; margin: 20px 0 0 0;">Thank
+                    you and have a good day.</p>
+                <p style="font-family: Arial, sans-serif; font-size: 16px; color: #191923; margin: 20px 0 0 0;">
+                    {{owner_mail}}</p>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>

@@ -1,0 +1,2 @@
+id,property_name,tenant_name,address,bhk,age,email,phone_number,rent,rent_date,adhar_num,adhar_pic,property_pic,created,is_active,rent_paid,pay_token
+1,Raj Hotel,Shyam,address,2,22,vishalanshuman@gmail.com,7388824294,3000,2023-03-02,777777777777,/media/adhar_card/git.png,/media/Propery_image/formvalidation.png,2023-03-02T07:12:05.933009Z,True,False,9da20159-7a48-426c-a049-ba5b4479c6ea
